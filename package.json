@@ -1,5 +1,5 @@
 {
-  "name": "aciTree",
+  "name": "acitree",
   "version": "4.5.1",
   "description": "A treeview control with jQuery",
   "keywords": [
@@ -15,6 +15,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ommu/jquery-aciTree.git"
-  }
+    "url": "git+https://github.com/ommu/jquery-aciTree.git"
+  },
+  "homepage": "https://github.com/ommu/jquery-aciTree#readme",
+  "directories": {
+    "doc": "docs",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "aciTree"
+  },
+  "author": "Dragos Ursu"
 }
