@@ -1,5 +1,6 @@
 {
   "name": "aciTree",
+  "version": "4.5.1",
   "description": "A treeview control with jQuery",
   "keywords": [
     "jQuery",
