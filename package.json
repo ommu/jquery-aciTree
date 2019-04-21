@@ -1,0 +1,19 @@
+{
+  "name": "aciTree",
+  "description": "A treeview control with jQuery",
+  "keywords": [
+    "jQuery",
+    "tree",
+    "tree view"
+  ],
+  "style": "dist/css/aciTree.css",
+  "main": "dist/js/jquery.aciTree.min.js",
+  "bugs": {
+    "url": "https://github.com/dragosu/jquery-aciTree/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ommu/jquery-aciTree.git"
+  }
+}
